@@ -9,6 +9,13 @@ Dependencies:
 
 Notes:
 
-Can add any city, state, zip within US
+    Can add any city, state, zip within US
 
-Run with node.js, specifically node fetchgeocode.js
+    Run with node.js, specifically node fetchgeocode.js
+
+Dependencies for Int Tests:
+
+    npm install --save-dev jest dotenv axios
+
+
+
